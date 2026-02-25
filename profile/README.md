@@ -1,15 +1,6 @@
-<div align="center"><img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" width="800"/></div>
+## Optuna Organization
 
-# Optuna Organization
-:link: [**Optuna Official Web Site**](https://optuna.org/) | [**OptunaHub**](https://hub.optuna.org/) | [**Twitter**](https://twitter.com/OptunaAutoML)
-| [**LinkedIn**](https://www.linkedin.com/showcase/optuna/)
-| [**Medium**](https://medium.com/optuna)
-
-We develop open source software, including the [Optuna](https://optuna.org/) framework for black-box and hyperparameter optimization, an interactive [Optuna-Dashboard](https://optuna-dashboard.readthedocs.io/en/latest/), and the [OptunaHub](https://hub.optuna.org/) platform.
-
-## Overview of Optuna Organization Repositories
-
-Below is an overview of the repositories under the Optuna organization. Your contributions are welcome and should be directed to the appropriate repository listed.
+We develop open source software, including the [Optuna](https://optuna.org/) framework for black-box and hyperparameter optimization, an interactive [Optuna-Dashboard](https://optuna-dashboard.readthedocs.io/en/latest/), and the [OptunaHub](https://hub.optuna.org/) platform. Below is an overview of the repositories under the Optuna organization. Your contributions are welcome and should be directed to the appropriate repository listed.
 
 <table>
   <thead>
