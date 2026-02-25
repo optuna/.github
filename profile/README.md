@@ -29,7 +29,7 @@ We develop open source software, including the [Optuna](https://optuna.org/) fra
       <th><a href="https://github.com/optuna/optunahub-web">optunahub-web</a></th><td>Frontend of OptunaHub Registry, i.e., the implementation of https://hub.optuna.org/.</td>
     </tr>
     <tr>
-      <th><a href="https://github.com/optuna/optuna-mcp">optunahub-mcp</a></th><td>Optuna Model Context Protocol (MCP) server to interact with Optuna APIs.</td>
+      <th><a href="https://github.com/optuna/optuna-mcp">optuna-mcp</a></th><td>Optuna Model Context Protocol (MCP) server to interact with Optuna APIs.</td>
     </tr>
   </tbody>
 </table>
